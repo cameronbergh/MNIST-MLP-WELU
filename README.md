@@ -3,7 +3,9 @@ A simple pytorch script to train an MLP using the WELU (Weighted Exponential Lin
 
 SELU and WELU is from the authors in this paper. i cant find the paper for WELU. https://arxiv.org/abs/1706.02515v5
 
-here are my results: https://wandb.ai/impudentstrumpet/mnist-welu/runs/zxnmuh4q
+here are my results: 
+https://wandb.ai/impudentstrumpet/mnist-welu/runs/zxnmuh4q
+https://wandb.ai/impudentstrumpet/mnist-selu
 
 By cameron bergh 2023
 
