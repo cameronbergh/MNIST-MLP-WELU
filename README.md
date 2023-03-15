@@ -17,5 +17,5 @@ pip3 install torch torchvision wandb
 
 (login to wandb by running wandb.login(), look it up on their website)
 
-python3 welu_mpl.py
+python3 welu_mlp.py
 
