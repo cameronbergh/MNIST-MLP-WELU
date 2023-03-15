@@ -4,3 +4,18 @@ A simple pytorch script to train an MLP using the WELU (Weighted Exponential Lin
 here are my results: https://wandb.ai/impudentstrumpet/mnist-welu/runs/zxnmuh4q
 
 By cameron bergh 2023
+
+
+installation:
+
+git clone this repo
+cd to repo directory
+
+pipenv install
+
+pip3 install torch torchvision wandb
+
+(login to wandb by running wandb.login(), look it up on their website)
+
+python3 welu_mpl.py
+
