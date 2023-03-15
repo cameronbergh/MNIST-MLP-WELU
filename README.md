@@ -1,7 +1,7 @@
 # MNIST-MLP-WELU
 A simple pytorch script to train an MLP using the WELU (Weighted Exponential Linear Units) activation function on the MNIST dataset and record results to wandb.com
 
-I really dont know if i am using this correctly.
+I really dont know if i am using this correctly. mnist probably isnt the best test for this.
 
 SELU and WELU is from the authors in this paper. i cant find the paper for WELU. https://arxiv.org/abs/1706.02515v5
 
